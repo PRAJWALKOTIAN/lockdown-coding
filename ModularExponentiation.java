@@ -1,4 +1,3 @@
- Modular Exponentiation
 import java.io.*; 
   
 public class ModularExponentiation { 
